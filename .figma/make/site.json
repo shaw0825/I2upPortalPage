@@ -1,0 +1,10 @@
+{
+  "description": "This enterprise-level web application provides administrators with a streamlined portal for accessing disaster recovery and data integration products, enhancing operational efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
